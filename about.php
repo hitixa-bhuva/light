@@ -1,8 +1,8 @@
 ﻿
 <?php
-   $Title = "";
-   $MetaDescription = "";
-   $MetaKeywords = "";
+   $Title_About = "About Us | AAMUKH Architects";
+$MetaDescription_About = "Learn more about AAMUKH Architects, our vision, values, and design philosophy. We combine creativity, context, and innovation to shape meaningful spaces.";
+$MetaKeywords_About = "About AAMUKH Architects, Architecture Firm, Design Philosophy, Vision, Values, Architects in India";
 ?>
 
 <?php

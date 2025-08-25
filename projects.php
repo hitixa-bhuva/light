@@ -1,8 +1,8 @@
 ﻿
 <?php
-   $Title = "";
-   $MetaDescription = "";
-   $MetaKeywords = "";
+  $Title_Projects = "Our Projects | AAMUKH Architects";
+$MetaDescription_Projects = "Explore AAMUKH Architects’ portfolio of creative projects, experimental designs, and bespoke architectural solutions that inspire and engage.";
+$MetaKeywords_Projects = "AAMUKH Architects Projects, Creative Projects, Architecture Portfolio, Bespoke Designs, Architectural Solutions";
 ?>
 
 <?php

@@ -1,8 +1,8 @@
 ﻿
 <?php
-   $Title = "";
-   $MetaDescription = "";
-   $MetaKeywords = "";
+  $Title_FAQ = "FAQs | AAMUKH Architects";
+$MetaDescription_FAQ = "Find answers to frequently asked questions about AAMUKH Architects’ services, design process, and project timelines.";
+$MetaKeywords_FAQ = "AAMUKH Architects FAQ, Architecture Questions, Design Process, Services FAQ";
 ?>
 
 <?php

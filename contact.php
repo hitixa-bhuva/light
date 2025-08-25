@@ -1,8 +1,8 @@
 ﻿
 <?php
-   $Title = "";
-   $MetaDescription = "";
-   $MetaKeywords = "";
+   $Title_Contact = "Contact Us | AAMUKH Architects";
+$MetaDescription_Contact = "Get in touch with AAMUKH Architects. Reach us for architectural services, collaborations, or project inquiries. We are here to help shape your vision.";
+$MetaKeywords_Contact = "Contact AAMUKH Architects, Architecture Contact, Project Inquiry, Collaboration, Architects Ahmedabad";
 ?>
 
 <?php

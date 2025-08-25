@@ -1,8 +1,8 @@
 ﻿
 <?php
-   $Title = "";
-   $MetaDescription = "";
-   $MetaKeywords = "";
+ $Title_Home = "AAMUKH Architects | Creative Architecture & Innovative Design";
+$MetaDescription_Home = "Welcome to AAMUKH Architects. We create expressive, innovative, and timeless architectural spaces blending art, design, and functionality.";
+$MetaKeywords_Home = "AAMUKH Architects, Architecture, Innovative Design, Creative Architecture, Modern Architecture, Interior Design, Concept to Execution";
 ?>
 
 <?php

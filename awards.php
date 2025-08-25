@@ -1,8 +1,8 @@
 
 <?php
-   $Title = "";
-   $MetaDescription = "";
-   $MetaKeywords = "";
+   $Title_Awards = "Awards & Recognition | AAMUKH Architects";
+$MetaDescription_Awards = "Discover the awards and recognitions earned by AAMUKH Architects for excellence in creative and innovative architecture.";
+$MetaKeywords_Awards = "AAMUKH Architects Awards, Architecture Recognition, Design Excellence, Achievements";
 ?>
 
 <?php
