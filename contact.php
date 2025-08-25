@@ -30,9 +30,9 @@
                         <div class="phone">+91 73835 03293</div>
                         <div class="mail mb-3">aamukharchitects@gmail.com</div>
                         <div class="social mt-2"> 
-                            <a href="index.html"><i class="ti-twitter"></i></a> 
-                            <a href="index.html"><i class="ti-instagram"></i></a> 
-                            <a href="index.html"><i class="ti-linkedin"></i></a> 
+                            <a href="home"><i class="ti-twitter"></i></a> 
+                            <a href="home"><i class="ti-instagram"></i></a> 
+                            <a href="home"><i class="ti-linkedin"></i></a> 
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -45,31 +45,31 @@
                     <!-- form -->
                     <div class="col-lg-4 col-md-12">
                         <h4 class="mb-4">Have a Project? - <span>Lets Talk</span></h4>
-                        <form method="post" class="contact__form" action="mail.php">
+                        <form  class="contact__form" id="contact-Inquiry-form">
                             <!-- Form message -->
-                            <div class="row">
+                            <!-- <div class="row">
                                 <div class="col-12">
                                     <div class="alert alert-success contact__msg" style="display: none" role="alert"> Your message was sent successfully. </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- Form elements -->
                             <div class="row">
                                 <div class="col-md-6 form-group">
-                                    <input class="line-gray" name="name" type="text" placeholder="Full Name *" required>
+                                    <input class="line-gray" name="name" type="text" id="firstName"  placeholder="Full Name *" required>
                                 </div>
-                                <div class="col-md-3 form-group">
-                                    <input class="line-gray" name="phone" type="text" placeholder="Phone *" required>
-                                </div>
-                                <div class="col-md-3 form-group">
-                                    <input class="line-gray" name="reachUs" type="text" placeholder="How did you reach us? (optional)">
+                                <div class="col-md-6 form-group">
+                                    <input class="line-gray" name="phone"  id="phone" type="text" placeholder="Phone *" required>
                                 </div>
                                 <div class="col-md-12 form-group">
-                                    <input name="email" type="email" placeholder="Your Email *" required="">
+                                    <input class="line-gray" name="reachUs" id="reach" type="text" placeholder="How did you reach us? (optional)">
                                 </div>
                                 <div class="col-md-12 form-group">
-                                    <input name="subject" type="text" placeholder="Subject *" required="">
+                                    <input name="email" type="email" id="email" placeholder="Your Email *" required="">
                                 </div>
                                 <div class="col-md-12 form-group">
+                                    <input name="subject" type="text" id="subject" placeholder="Subject *" required="">
+                                </div>
+                                <!-- <div class="col-md-12 form-group">
                                     <select class="form-control line-gray" name="propertyType" id="propertyType" required>
                                         <option value="">Select an option</option>
                                         <option value="job">Looking for a Job?</option>
@@ -89,14 +89,35 @@
                                         <option value="AGENCY PROVISION">AGENCY PROVISION</option>
                                         <option value="TURNKEY AGENCY COLLABORATION">TURNKEY AGENCY COLLABORATION</option>
                                     </select>
-                                </div>
+                                </div> -->
                                 <div class="col-md-12 form-group">
-                                    <textarea name="message" id="message" cols="30" rows="4" placeholder="Message *" required=""></textarea>
+                                    <textarea name="message" id="message" id="message" cols="30" rows="4" placeholder="Message *" required=""></textarea>
                                 </div>
                                 <div class="col-md-12 mt-2">
-                                    <input name="submit" type="submit" value="Send Message">
+                                    <input name="submit" type="submit"  id="submit-button">
+                                     <span class="form-btn-loader d-none">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 200 100">
+                                       <circle fill="#fff" stroke="#fff" stroke-width="15" r="15" cx="40" cy="50">
+                                          <animate attributename="opacity" calcmode="spline" dur="2" values="1;0;1;" keysplines=".5 0 .5 1;.5 0 .5 1" repeatcount="indefinite" begin="-.4"></animate>
+                                       </circle>
+                                       <circle fill="#fff" stroke="#fff" stroke-width="15" r="15" cx="100" cy="50">
+                                          <animate attributename="opacity" calcmode="spline" dur="2" values="1;0;1;" keysplines=".5 0 .5 1;.5 0 .5 1" repeatcount="indefinite" begin="-.2"></animate>
+                                       </circle>
+                                       <circle fill="#fff" stroke="#fff" stroke-width="15" r="15" cx="160" cy="50">
+                                          <animate attributename="opacity" calcmode="spline" dur="2" values="1;0;1;" keysplines=".5 0 .5 1;.5 0 .5 1" repeatcount="indefinite" begin="0"></animate>
+                                       </circle>
+                                    </svg>
+                                 </span>
                                 </div>
                             </div>
+                            <div id="toast" class="custom-toast">
+                                <div class="toast-content">
+                                  <span class="toast-icon">✓</span>
+                                  <div class="toast-message">Message here</div>
+                                  <button class="toast-close" onclick="hideToast()">&times;</button>
+                                </div>
+                                <div class="toast-progress"></div>
+                              </div>
                         </form>
                     </div>
                 </div>

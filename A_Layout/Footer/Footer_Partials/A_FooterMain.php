@@ -16,8 +16,8 @@ echo
                                 </p>
                                 <p class="phone">+91 73835 03293</p>
                                 <p class="mail">aamukharchitects@gmail.com</p>
-                                <div class="social mt-2"> <a href="index.html"><i class="ti-twitter"></i></a> <a
-                                        href="index.html"><i class="ti-instagram"></i></a> <a href="index.html"><i
+                                <div class="social mt-2"> <a href="home"><i class="ti-twitter"></i></a> <a
+                                        href="home"><i class="ti-instagram"></i></a> <a href="home"><i
                                             class="ti-linkedin"></i></a> </div>
                             </div>
                         </div>

@@ -267,8 +267,8 @@
                             </div>
                             <div class="cont">
                                 <h4><a href="post.html">5 Best Villa ideas in 2025</a></h4>
-                                <div class="info"> <a href="blog.html"><span>Exterior Design</span></a> <a
-                                        href="blog.html">Dec, 24</a> </div>
+                                <div class="info"> <a href="blog"><span>Exterior Design</span></a> <a
+                                        href="blog">Dec, 24</a> </div>
                             </div>
                         </div>
                     </div>
@@ -281,8 +281,8 @@
                             </div>
                             <div class="cont">
                                 <h4><a href="post.html">Luxury kitchen ideas</a></h4>
-                                <div class="info"> <a href="blog.html"><span>Interior Design</span></a> <a
-                                        href="blog.html">Dec, 21</a> </div>
+                                <div class="info"> <a href="blog"><span>Interior Design</span></a> <a
+                                        href="blog">Dec, 21</a> </div>
                             </div>
                         </div>
                     </div>
@@ -295,8 +295,8 @@
                             </div>
                             <div class="cont">
                                 <h4><a href="post.html">Home Decorating Inspiration</a></h4>
-                                <div class="info"> <a href="blog.html"><span>Interior Design</span></a> <a
-                                        href="blog.html">Dec, 18</a> </div>
+                                <div class="info"> <a href="blog"><span>Interior Design</span></a> <a
+                                        href="blog">Dec, 18</a> </div>
                             </div>
                         </div>
                     </div>

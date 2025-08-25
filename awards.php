@@ -48,54 +48,7 @@
                             </div>
                         </a>
                     </div>
-                    <!-- <div class="col-md-3 gallery-item animate-box" data-animate-effect="fadeInUp">
-                        <a href="images/slider/3.jpg" title="Image Gallery" class="img-zoom">
-                            <div class="gallery-box">
-                                <div class="gallery-img"> <img src="images/slider/3.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
-                                <div class="gallery-detail text-center"> <i class="ti-fullscreen"></i> </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 gallery-item animate-box" data-animate-effect="fadeInUp">
-                        <a href="images/slider/4.jpg" title="Image Gallery" class="img-zoom">
-                            <div class="gallery-box">
-                                <div class="gallery-img"> <img src="images/slider/4.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
-                                <div class="gallery-detail text-center"> <i class="ti-fullscreen"></i> </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 gallery-item animate-box" data-animate-effect="fadeInUp">
-                        <a href="images/slider/5.jpg" title="Image Gallery" class="img-zoom">
-                            <div class="gallery-box">
-                                <div class="gallery-img"> <img src="images/slider/5.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
-                                <div class="gallery-detail text-center"> <i class="ti-fullscreen"></i> </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 gallery-item animate-box" data-animate-effect="fadeInUp">
-                        <a href="images/slider/5.jpg" title="Image Gallery" class="img-zoom">
-                            <div class="gallery-box">
-                                <div class="gallery-img"> <img src="images/slider/5.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
-                                <div class="gallery-detail text-center"> <i class="ti-fullscreen"></i> </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 gallery-item animate-box" data-animate-effect="fadeInUp">
-                        <a href="images/slider/5.jpg" title="Image Gallery" class="img-zoom">
-                            <div class="gallery-box">
-                                <div class="gallery-img"> <img src="images/slider/5.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
-                                <div class="gallery-detail text-center"> <i class="ti-fullscreen"></i> </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 gallery-item animate-box" data-animate-effect="fadeInUp">
-                        <a href="images/slider/5.jpg" title="Image Gallery" class="img-zoom">
-                            <div class="gallery-box">
-                                <div class="gallery-img"> <img src="images/slider/5.jpg" class="img-fluid mx-auto d-block" alt=""> </div>
-                                <div class="gallery-detail text-center"> <i class="ti-fullscreen"></i> </div>
-                            </div>
-                        </a>
-                    </div> -->
+                   
                 </div>
             </div>
         </section>

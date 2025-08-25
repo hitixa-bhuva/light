@@ -14,6 +14,7 @@ echo
     <script src="./modules/masonry/masonry.pkgd.min.js"></script>
     <script src="./modules/YouTubePopUp/YouTubePopUp.js"></script>
     <script src="./js/script.js"></script>
+    <script src="./js/Contact-mail.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 </body>   
 </html>

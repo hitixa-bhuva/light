@@ -17,7 +17,7 @@
                         <div class="title">Sorry We Can't Find That Page!</div>
                         <p>The page you are looking for was moved, removed, renamed or never existed.</p>
                         <div class="error-form">
-                            <form method="post" action="index.html">
+                            <form method="post" action="home">
                                 <div class="form-group clearfix">
                                     <input type="search" name="text" value="" placeholder="Search here" required="" class="mb-3">
                                     <input name="submit" type="submit" value="Search">

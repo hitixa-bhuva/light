@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 caption mt-60">
-                        <div class="subtitle"><a href="projects.html">Projects</a></div>
+                        <div class="subtitle"><a href="projects">Projects</a></div>
                         <div class="title">Creative Projects</div>
                     </div>
                 </div>
