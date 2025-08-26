@@ -1,8 +1,8 @@
 ﻿
 <?php
- $Title_Gallery = "Gallery | AAMUKH Architects";
-$MetaDescription_Gallery = "Browse the gallery of AAMUKH Architects showcasing our architectural projects, creative installations, and design highlights.";
-$MetaKeywords_Gallery = "AAMUKH Architects Gallery, Architecture Gallery, Project Showcase, Design Highlights";
+ $Title = "Gallery | AAMUKH Architects";
+$MetaDescription = "Browse the gallery of AAMUKH Architects showcasing our architectural projects, creative installations, and design highlights.";
+$MetaKeywords = "AAMUKH Architects Gallery, Architecture Gallery, Project Showcase, Design Highlights";
 ?>
 
 <?php

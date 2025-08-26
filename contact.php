@@ -1,12 +1,12 @@
 ﻿
 <?php
-   $Title_Contact = "Contact Us | AAMUKH Architects";
-$MetaDescription_Contact = "Get in touch with AAMUKH Architects. Reach us for architectural services, collaborations, or project inquiries. We are here to help shape your vision.";
-$MetaKeywords_Contact = "Contact AAMUKH Architects, Architecture Contact, Project Inquiry, Collaboration, Architects Ahmedabad";
+$Title = "Contact Us | AAMUKH Architects";
+$MetaDescription = "Get in touch with AAMUKH Architects. Reach us for architectural services, collaborations, or project inquiries. We are here to help shape your vision.";
+$MetaKeywords = "Contact AAMUKH Architects, Architecture Contact, Project Inquiry, Collaboration, Architects Ahmedabad";
 ?>
 
 <?php
-   include __DIR__ . '/A_Layout/Header/header.php';
+include __DIR__ . '/A_Layout/Header/header.php';
 ?>
         <!-- Header Banner -->
         <div class="banner-header valign bg-img bg-fixed" data-overlay-dark="4" data-background="images/slider/2.jpg">

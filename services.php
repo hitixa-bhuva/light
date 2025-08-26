@@ -1,8 +1,8 @@
 ﻿
 <?php
-$Title_Services = "Our Services | AAMUKH Architects";
-$MetaDescription_Services = "Discover our end-to-end architectural services, from concept design and detailing to execution and handover. AAMUKH Architects delivers timeless spaces.";
-$MetaKeywords_Services = "AAMUKH Architects Services, Architecture Services, Interior Design Services, Concept to Completion, Design Process";
+$Title = "Our Services | AAMUKH Architects";
+$MetaDescription = "Discover our end-to-end architectural services, from concept design and detailing to execution and handover. AAMUKH Architects delivers timeless spaces.";
+$MetaKeywords = "AAMUKH Architects Services, Architecture Services, Interior Design Services, Concept to Completion, Design Process";
 ?>
 
 <?php
